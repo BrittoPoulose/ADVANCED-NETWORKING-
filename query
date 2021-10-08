@@ -1,0 +1,12 @@
+cat pur1.txt pur2.txt >> pur3.txt
+cp pur3.txt /home/exam/sales/location3/stock3.txt
+
+
+exam@debian:~/sales/location3$ chmod a+w stock3.txt
+exam@debian:~/sales/location3$ chmod a+r stock3.txt
+exam@debian:~/sales/location3$ chmod a+x stock3.txt
+
+
+ head -n 10 stock1.txt
+  ls -al
+
